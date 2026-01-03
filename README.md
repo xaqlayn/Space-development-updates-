@@ -13,15 +13,14 @@ An AI-powered workflow that automatically researches and delivers weekly space i
 - **Processing:** JavaScript
 ## 📸 Screenshots
 ### Workflow Canvas
-![Workflow](screenshots/workflow-canvas.png)
+![Workflow](https://github.com/xaqlayn/Space-development-updates-/blob/main/workflow-canvas.HEIC)
 ### Sample Email Output
-![Email](screenshots/email-output.png)
+![Email](https://github.com/xaqlayn/Space-development-updates-/blob/main/email-output.PNG)
 ## 🔧 How It Works
 1. **Schedule Trigger** - Fires every Friday at 11:00 AM (Berlin time)
 2. **Exa Research** - AI searches for latest space industry news
 3. **Data Formatting** - JavaScript processes and formats top 10 stories
 4. **Email Delivery** - Gmail API sends the digest to recipient
-## 🎥 Demo Video
-[Watch the workflow in action](link-to-your-video)
+
 ## 📊 API Endpoint
 
